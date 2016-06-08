@@ -1,0 +1,85 @@
+﻿<Page
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Kinect2FaceHD_NET.MainWindow"
+        Title="Kinect 2 Face HD (.NET)"
+        Height="1520" Width="1055" Loaded="Window_Loaded" 
+        >
+    <Page.Resources>
+        <SolidColorBrush x:Key="MediumGreyBrush" Color="#ff6e6e6e"/>
+        <SolidColorBrush x:Key="KinectPurpleBrush" Color="#ff52318f"/>
+        <SolidColorBrush x:Key="KinectBlueBrush" Color="#ff00BCF2"/>
+        <Style TargetType="{x:Type Image}">
+            <Setter Property="SnapsToDevicePixels" Value="True"/>
+        </Style>
+
+        <ObjectDataProvider x:Key="dataFromEnum" MethodName="GetValues" />
+
+    </Page.Resources>
+    <Grid Background="{DynamicResource {x:Static SystemColors.ControlDarkBrushKey}}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="347*"/>
+            <ColumnDefinition Width="415*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Viewbox Grid.Row="1" Grid.ColumnSpan="2">
+            <!--<Canvas Name="canvas" Width="618" Height="447" Background="{DynamicResource {x:Static SystemColors.ControlDarkDarkBrushKey}}" >
+                
+            </Canvas>-->
+            <Grid x:Name="MainGrid" Width="1055" Height="1520">
+                <Image x:Name="colorimage" Margin="-2641,-2736,-2511,-1877"/>
+                <Canvas  x:Name="canvas"  Width="960" Height="902" Margin="-28,-55,123,673"/>
+            </Grid>
+        </Viewbox>
+        <Canvas  Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\eyebrow\menu22.png"  x:Name="right" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="80" Canvas.Left="279" Canvas.Top="361" Width="155"  />
+        </Canvas>
+
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+
+            <Image Source="C:\Users\339-1\Desktop\eyebrow\menu21.png"  x:Name="left" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="80" Canvas.Left="62" Canvas.Top="399" Width="155"  />
+        </Canvas>
+
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\셔터.png"  x:Name="button1" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="168" Canvas.Left="798" Canvas.Top="1045" Width="291"  />
+        </Canvas>
+
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\셔터.png"  x:Name="button2" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="168" Canvas.Left="794" Canvas.Top="801" Width="291"  />
+        </Canvas>
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\셔터.png"  x:Name="button3" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="168" Canvas.Left="808" Canvas.Top="235" Width="291" />
+        </Canvas>
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\셔터.png"  x:Name="button4" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="168" Canvas.Left="802" Canvas.Top="543" Width="291"  />
+        </Canvas>
+
+
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\저장.png"  x:Name="button_next" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="291" Canvas.Left="700" Canvas.Top="-27" Width="291"  />
+        </Canvas>
+
+        <TextBlock Text="left hand state:"  FontSize="36" Name="LeftHandState" Margin="100,150" Grid.ColumnSpan="2" Grid.Row="1" />
+        <TextBlock Text="Right hand state:"  FontSize="36" Name="RightHandState" Margin="100,100" Grid.ColumnSpan="2" Grid.Row="1"  />
+        <TextBlock Text="왼쪽 눈썹 조정 페이지"  FontSize="50" Margin="192,18,208,382" Grid.ColumnSpan="2" Grid.Row="1" Name="hi"/>
+        <TextBlock Text="left hand Position:"  FontSize="25" Name="LeftHandPosition" Margin="20,150,82,150" Grid.Row="1" Grid.Column="1" />
+        <TextBlock Text="Right hand Position:"  FontSize="25" Name="RightHandPosition" Margin="20,100,44,100" Grid.Row="1" Grid.Column="1"  />
+        <TextBlock Text="Up"  FontSize="50"  Margin="450,280,54,1172" Grid.Row="1" Grid.Column="1"  />
+        <TextBlock Text="Down"  FontSize="50"  Margin="414,592,18,860" Grid.Row="1" Grid.Column="1" RenderTransformOrigin="0.704,4.765"  />
+        <TextBlock Text="Left"  FontSize="50"  Margin="442,1094,26,358" Grid.Row="1" Grid.Column="1"  />
+        <TextBlock Text="Right"  FontSize="50"  Margin="424,836,6,616" Grid.Row="1" RenderTransformOrigin="0.51,2.235" Grid.Column="1"  />
+
+    </Grid>
+
+
+
+</Page>

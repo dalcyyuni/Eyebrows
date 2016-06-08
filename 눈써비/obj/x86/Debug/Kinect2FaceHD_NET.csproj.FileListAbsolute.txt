@@ -1,0 +1,297 @@
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\yoo\Desktop\kinect-2-face-hd-master\kinect-2-face-hd-master\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_Content.g.cs
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_Content.g.cs
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\yoo\Desktop\유니\얼굴인식v2\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_Content.g.cs
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\yoo\Desktop\유니\얼굴인식v2 - 복사본\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_Content.g.cs
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\yoo\Desktop\유니\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\339-1\Desktop\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\339-1\Desktop\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_Content.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_Content.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_Content.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl1.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.lref
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl1.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Loginxaml.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _글씨부활 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Loginxaml.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Loginxaml.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl1.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_Content.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.lref
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Loginxaml.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl1.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _화면전환_눈썹위치 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Loginxaml.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl1.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_Content.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.lref
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Loginxaml.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl1.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Loginxaml.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl1.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_Content.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.lref
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Loginxaml.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl1.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl2.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl2.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl3.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl3.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl4.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl4.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\EDSDKLib.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\EDSDKLib.pdb
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Loginxaml.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl1.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl2.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl3.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl4.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_Content.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.lref
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Loginxaml.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl1.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl2.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl3.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl4.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl5.g.cs
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl5.baml
+C:\Users\339-1\Desktop\유니폴더\얼굴인식v3 _3번째발표용 - 복사본 - 복사본\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe.config
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.exe
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Kinect2FaceHD_NET.pdb
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\EDSDKLib.dll
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.dll
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\EDSDKLib.pdb
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Microsoft.Kinect.Face.xml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainWindow.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl1.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl2.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl3.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl5.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\App.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_Content.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.cache
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET_MarkupCompile.lref
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl1.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl2.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl3.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl5.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.g.resources
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.Properties.Resources.resources
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csproj.GenerateResource.Cache
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Main.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Main.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Register.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Register.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Login.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Login.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Pick.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Pick.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Control.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Control.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Move.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Move.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Draw.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Draw.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl6.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\UserControl6.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainPage.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\MainPage.baml
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\Kinect2FaceHD_NET.csprojResolveAssemblyReference.cache
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\ButtonPick.g.cs
+C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\obj\x86\Debug\ButtonPick.baml

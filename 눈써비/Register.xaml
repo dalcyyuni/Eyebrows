@@ -1,0 +1,53 @@
+﻿<Page x:Class="Kinect2FaceHD_NET.Register"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Kinect2FaceHD_NET"
+             mc:Ignorable="d" 
+             Loaded="Window_Loaded">
+    <Grid>
+
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1"/>
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\로그인.png"  x:Name="button_login" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="179" Canvas.Left="-912" Canvas.Top="1525" Width="179" >
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="-1" />
+                </Image.RenderTransform>
+            </Image>
+        </Canvas>
+        
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1"/>
+          
+
+        <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\등록타이틀.png"  RenderTransformOrigin="3.051,3.316" OpacityMask="Red" Height="207" Canvas.Left="-1156" Canvas.Top="-91" Width="207" Margin="-265,-205,1113,1518">
+            <Image.RenderTransform>
+                <ScaleTransform ScaleX="-1" />
+            </Image.RenderTransform>
+        </Image>
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\로그인하기.png"   RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="836" Canvas.Left="-2879" Canvas.Top="338" Width="929">
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="-1" />
+                </Image.RenderTransform>
+            </Image>
+        </Canvas>
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\등록1.png"   RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="136" Canvas.Left="-2667" Canvas.Top="1526" Width="600">
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="-1" />
+                </Image.RenderTransform>
+            </Image>
+        </Canvas>
+        <TextBlock Text="메인"  FontSize="50" Margin="344,250,56,150" Name="hi"/>
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\등록하기.png"  x:Name="button_register" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="227" Canvas.Left="-754" Canvas.Top="1178" Width="227">
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="-1" />
+                </Image.RenderTransform>
+            </Image>
+        </Canvas>
+        <TextBlock Text="left hand state:"  FontSize="36" Name="LeftHandState" Margin="476,150,-276,150" />
+        <TextBlock Text="Right hand state:"  FontSize="36" Name="RightHandState" Margin="476,88,-276,112"  />
+    </Grid>
+</Page>

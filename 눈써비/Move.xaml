@@ -1,0 +1,53 @@
+﻿<Page x:Class="Kinect2FaceHD_NET.Move"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Kinect2FaceHD_NET"
+             mc:Ignorable="d" 
+              Loaded="Window_Loaded">
+    <Grid>
+        <Canvas x:Name="LVCanvas" Margin="1110,-38,-1765,394" Background="LightGray">
+            <Canvas.RenderTransform>
+                <RotateTransform Angle="90"/>
+            </Canvas.RenderTransform>
+        </Canvas>
+
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\상.png"  x:Name="button1" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="201" Canvas.Left="-234" Canvas.Top="293" Width="201">
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="-1" />
+                </Image.RenderTransform>
+            </Image>
+        </Canvas>
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\하.png"  x:Name="button2" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="213" Canvas.Left="-290" Canvas.Top="557" Width="213">
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="-1" />
+                </Image.RenderTransform>
+            </Image>
+        </Canvas>
+
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\좌.png"  x:Name="button3" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="201" Canvas.Left="-222" Canvas.Top="829" Width="201">
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="-1" />
+                </Image.RenderTransform>
+            </Image>
+        </Canvas>
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\우.png"  x:Name="button4" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="213" Canvas.Left="-274" Canvas.Top="1085" Width="213">
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="-1" />
+                </Image.RenderTransform>
+            </Image>
+        </Canvas>
+
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\바.png"  RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="255" Canvas.Left="-78" Canvas.Top="-243" Width="1195"  />
+        </Canvas>
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\바.png"  RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="383" Canvas.Left="-338" Canvas.Top="1469" Width="1795"  />
+        </Canvas>
+    </Grid>
+</Page>

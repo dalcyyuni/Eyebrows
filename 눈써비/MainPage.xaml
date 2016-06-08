@@ -1,0 +1,45 @@
+﻿<Page x:Class="Kinect2FaceHD_NET.MainPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Kinect2FaceHD_NET"
+             mc:Ignorable="d" 
+              Loaded="Window_Loaded">
+    <Grid>
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\로고.png"  RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="719" Canvas.Left="-3480" Canvas.Top="157" Width="719">
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="-1" />
+                </Image.RenderTransform>
+            </Image>
+        </Canvas>
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\로그인.png"  x:Name="button_login" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="300" Canvas.Left="-1392" Canvas.Top="921" Width="300" >
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="-1" />
+                </Image.RenderTransform>
+                <Image.Effect>
+                    <BlurEffect Radius="20"/>
+                </Image.Effect>
+            </Image>
+        </Canvas>
+        <Canvas   Grid.ColumnSpan="2" Width="1055" Height="1520" Grid.Row="1">
+            <Image Source="C:\Users\339-1\Desktop\유니폴더\눈써비\얼굴인식v3\kinect-2-face-hd-master - 복사본\Kinect2FaceHD\Kinect2FaceHD_NET\Image\등록.png"  x:Name="button_register" RenderTransformOrigin="3.051,3.316" OpacityMask="Black" Grid.Row="1" Height="300" Canvas.Left="-917" Canvas.Top="925" Width="300">
+                <Image.RenderTransform>
+                    <ScaleTransform ScaleX="-1" />
+                </Image.RenderTransform>
+                <Image.Effect>
+                    <BlurEffect Radius="20"/>
+                </Image.Effect>
+
+
+            </Image>
+        </Canvas>
+        <TextBlock Text="left hand state:"  FontSize="36" Name="LeftHandState" Margin="476,150,-276,150" />
+        <TextBlock Text="Right hand state:"  FontSize="36" Name="RightHandState" Margin="476,88,-276,112"  />
+        <TextBlock Text="메인"  FontSize="50" Margin="192,18,208,382" Grid.ColumnSpan="2" Grid.Row="1" Name="hi"/>
+        <TextBlock Text="left hand Position:"  FontSize="25" Name="LeftHandPosition" Margin="20,150,82,150" Grid.Row="1" Grid.Column="1" />
+        <TextBlock Text="Right hand Position:"  FontSize="25" Name="RightHandPosition" Margin="20,100,44,100" Grid.Row="1" Grid.Column="1"  />
+    </Grid>
+</Page>
